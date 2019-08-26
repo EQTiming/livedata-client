@@ -1,2 +1,2 @@
 # livedata-client
-TCP Client for livedata
+Examplecode for a simple TCP Client for livedata
